@@ -133,7 +133,7 @@ header {
 .hero {
     height: 100vh;
     min-height: 600px;
-    background: linear-gradient(rgba(15, 52, 96, 0.7), rgba(15, 52, 96, 0.6)), url('./assets/hero-school.png');
+    background: linear-gradient(rgba(15, 52, 96, 0.7), rgba(15, 52, 96, 0.6)), url('Screenshot_20250503-004220.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -548,3 +548,4 @@ footer {
         width: 100%;
     }
 }
+
